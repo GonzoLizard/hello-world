@@ -1,2 +1,5 @@
 # hello-world
-Getting started day 1
+
+Hello!
+
+I need Coffee!
